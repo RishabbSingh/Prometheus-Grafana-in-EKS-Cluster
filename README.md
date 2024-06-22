@@ -31,7 +31,8 @@ Helm is a package manager for Kubernetes that simplifies the installation of all
 Prerequisites
 -------------
 
--   An EKS Cluster up and running.
+-   An [EKS Cluster](https://github.com/RishabbSingh/EKS-Cluster-Setup) up and running.
+
 -   Helm 3 installed.
 -   EC2 instance to access the EKS cluster.
 
