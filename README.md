@@ -1,7 +1,7 @@
 # Setting up the monitoring tools in EKS Cluster
 ### :camera: Screenshots
  <div align="center"> 
-  <img src="./Assets/P & G.png" alt="screenshot" />
+  <img src="./assets/P & G.png" alt="screenshot" />
 </div>
 
 What is Prometheus?
